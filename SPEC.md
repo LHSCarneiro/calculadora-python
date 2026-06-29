@@ -3,7 +3,7 @@
 
 ## Objeivo
 
-Criar um programa capaz de realizar operações matemáticas, inicialmente apenas as básicas, com possibilidade de ampliar para contas coomplexas e outras melhorias no futuro.
+Criar um programa capaz de realizar operações matemáticas, inicialmente apenas as básicas, com possibilidade de ampliar para contas coomplexas e outras melhorias no futuro. Exercitando a lógica de programação, versionamento com Git e boas práticas de desenvolvimento
 ---
 
 ## Requisitos Funcionais
