@@ -38,9 +38,33 @@ Ajustar erros, retornar opção de operação desejada, mas sem utiliza-la.
 ## Dificuldades
 
 - Entender como funciona as funções e como elas se comunicam
-- Como criar uma função, suas funcionalidades
-- Organização de um código limpo e funcionalchamar uma função
+- Organização de um código limpo e funcional
+- chamar uma função
 
 ## O que aprendi
 
 - Aprendi como utilizar o resultado de uma função em outra
+
+---
+
+# Sprint 3
+
+## Objetivo
+
+Introduzir parâmetros, desenvolver funções das operações, estrutura de decisão.
+
+## O que foi desenvolvido
+
+- Correções e limpeza do código
+- estrutura de decisão dos operadores
+- desenvolvimento das funções de operações
+
+## Dificuldades
+
+- Entender o que são parâmetros
+- Como trabalhar com parâmetros
+- Aprendi como para que serve o return dentro deuma função
+
+## O que aprendi
+
+- A desenvolver parâmetros e utiliza-los em funções.
